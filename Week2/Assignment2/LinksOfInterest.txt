@@ -1,0 +1,21 @@
+
+
+https://github.com/sodaliAyran/Coursera-Applied-Plotting-Charting-Data-Representation-in-Python/blob/master/Assignment2%20.ipynb
+https://github.com/lytemar/Applied-Plotting-Charting-and-Data-Representation-in-Python--University-of-Michigan---Coursera/blob/master/Assignment2.ipynb
+https://github.com/juandoso/InfoVizCourse/blob/master/Assignment2.ipynb
+https://github.com/MaxPoon/coursera-Applied-Data-Science-with-Python/blob/master/Applied-Plotting-Charting-And-Data-Representation-in-Python/week2/Assignment2.ipynb
+https://github.com/bondeanikets/Applied-Plotting-Charting-and-Data-Representation-in-Python/blob/master/Assignment2.ipynb
+https://github.com/sodaliAyran/Coursera-Applied-Plotting-Charting-Data-Representation-in-Python/blob/master/Assignment2%20.ipynb
+
+Esta es mi tarea a lo mejor no es visible
+https://hub.coursera-notebooks.org/user/kmmgzdcvscawiegbmpshsg/nbconvert/html/Assignment2.ipynb?download=false
+
+
+http://pandas.pydata.org/pandas-docs/stable/api.html#datetimelike-properties
+https://erikrood.com/Python_References/extract_month_year_pandas_final.html
+https://medium.com/jbennetcodes/dealing-with-datetimes-like-a-pro-in-pandas-b80d3d808a7f
+https://www.geeksforgeeks.org/python-pandas-dataframe-insert/
+https://www.google.com/search?q=Applied-Plotting-Charting-and-Data-Representation-in-Python&rlz=1C1CHWA_enUS648US648&oq=Applied-Plotting-Charting-and-Data-Representation-in-Python&aqs=chrome..69i57j69i60l3j0.1506j0j7&sourceid=chrome&ie=UTF-8
+
+
+https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
