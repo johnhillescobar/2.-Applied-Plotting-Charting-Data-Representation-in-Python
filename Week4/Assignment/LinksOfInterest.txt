@@ -46,7 +46,18 @@ https://www.youtube.com/results?search_query=Functools.reduce%28%29
 Another awesome video about lambda expressions
 https://www.youtube.com/watch?v=25ovCm9jKfA
 
+https://stackoverflow.com/questions/6390393/matplotlib-make-tick-labels-font-size-smaller
+https://stackoverflow.com/questions/16992038/inline-labels-in-matplotlib
+
+
+https://matplotlib.org/gallery/misc/findobj_demo.html#sphx-glr-gallery-misc-findobj-demo-py
+https://matplotlib.org/gallery/text_labels_and_annotations/legend.html#sphx-glr-gallery-text-labels-and-annotations-legend-py
+https://matplotlib.org/api/_as_gen/matplotlib.pyplot.legend.html
+
 https://medium.com/importexcel/common-excel-task-in-python-vlookup-with-pandas-merge-c99d4e108988
 
 https://stackoverflow.com/questions/21291259/convert-floats-to-ints-in-pandas
+https://www.youtube.com/watch?v=T2mQiesnx8s&t=31s
+https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.axhline.html
+
 
